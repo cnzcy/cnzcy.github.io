@@ -10,29 +10,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 - [C++知识点](https://github.com/cnzcy/mind/blob/master/cpp%E7%9F%A5%E8%AF%86%E7%82%B9/cpp%E7%9F%A5%E8%AF%86%E7%82%B9.md)  
 
-### Markdown
+## Android  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [View构造方法参数](https://github.com/cnzcy/mind/blob/master/View构造方法参数/View构造方法参数.md)  
 
 ### Jekyll Themes
 
