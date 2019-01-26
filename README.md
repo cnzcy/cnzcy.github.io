@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/cnzcy/cnzcy.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Understand the knowledge points of learning and summarize them into diagrams. Personally, I think it's a good way to learn from the past. Pictures are the most intuitive for people, so I will use a lot of pictures and very few words to record what I have learned.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-# 总目录
+# General catalogue
 
 ## C++
 
@@ -12,7 +10,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Android  
 
-- [View构造方法参数](https://github.com/cnzcy/mind/blob/master/View构造方法参数/View构造方法参数.md)  
+- [View构造方法参数](https://github.com/cnzcy/mind/blob/master/View构造方法参数/View构造方法参数.md)    
+- [View相关属性](https://github.com/cnzcy/mind/blob/master/View相关属性/View相关属性.md)   
 
 ### Jekyll Themes
 
