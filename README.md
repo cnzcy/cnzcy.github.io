@@ -17,16 +17,9 @@ Understand the knowledge points of learning and summarize them into diagrams. Pe
 - [View构造方法参数](https://github.com/cnzcy/mind/blob/master/View构造方法参数/View构造方法参数.md)    
 - [View相关属性](https://github.com/cnzcy/mind/blob/master/View相关属性/View相关属性.md)   
 - [View滑动](https://github.com/cnzcy/mind/blob/master/View滑动/View滑动.md)  
+- [View事件分发](https://github.com/cnzcy/mind/blob/master/View事件分发/View事件分发.md)  
 
 
 
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cnzcy/cnzcy.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
