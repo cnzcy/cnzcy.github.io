@@ -1,4 +1,4 @@
-## Welcome to My GitHub Pages
+﻿## Welcome to My GitHub Pages
 
 Understand the knowledge points of learning and summarize them into diagrams. Personally, I think it's a good way to learn from the past. Pictures are the most intuitive for people, so I will use a lot of pictures and very few words to record what I have learned.
 
@@ -18,6 +18,7 @@ Understand the knowledge points of learning and summarize them into diagrams. Pe
 - [View相关属性](https://github.com/cnzcy/mind/blob/master/View相关属性/View相关属性.md)   
 - [View滑动](https://github.com/cnzcy/mind/blob/master/View滑动/View滑动.md)  
 - [View事件分发](https://github.com/cnzcy/mind/blob/master/View事件分发/View事件分发.md)  
+- [View布局](https://github.com/cnzcy/mind/blob/master/View布局/View布局.md)  
 
 
 
