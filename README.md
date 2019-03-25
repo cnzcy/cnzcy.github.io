@@ -20,7 +20,10 @@ Understand the knowledge points of learning and summarize them into diagrams. Pe
 - [View事件分发](https://github.com/cnzcy/mind/blob/master/View事件分发/View事件分发.md)  
 - [View布局](https://github.com/cnzcy/mind/blob/master/View布局/View布局.md)  
 
+## 知识回顾
 
-
-
+- [01.Canvas绘制](https://github.com/cnzcy/mind/blob/master/知识回顾/01.Canvas绘制/0.md)  
+- [02.文字绘制与几何变换](https://github.com/cnzcy/mind/blob/master/知识回顾/02.文字绘制与几何变换/0.md)  
+- [03.属性动画](https://github.com/cnzcy/mind/blob/master/知识回顾/03.属性动画/0.md)   
+- [04.Bitmap与Drawable](https://github.com/cnzcy/mind/blob/master/知识回顾/04.Bitmap与Drawable/0.md)   
 
