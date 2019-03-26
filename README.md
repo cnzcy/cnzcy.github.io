@@ -26,4 +26,4 @@ Understand the knowledge points of learning and summarize them into diagrams. Pe
 - [02.文字绘制与几何变换](https://github.com/cnzcy/mind/blob/master/知识回顾/02.文字绘制与几何变换/0.md)  
 - [03.属性动画](https://github.com/cnzcy/mind/blob/master/知识回顾/03.属性动画/0.md)   
 - [04.Bitmap与Drawable](https://github.com/cnzcy/mind/blob/master/知识回顾/04.Bitmap与Drawable/0.md)   
-
+- [05.自定义View](https://github.com/cnzcy/mind/blob/master/知识回顾/05.自定义View/0.md)   
