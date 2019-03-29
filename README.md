@@ -1,11 +1,5 @@
 ﻿## Welcome to My GitHub Pages
 
-Understand the knowledge points of learning and summarize them into diagrams. Personally, I think it's a good way to learn from the past. Pictures are the most intuitive for people, so I will use a lot of pictures and very few words to record what I have learned.
-
-
-
-
-
 # General catalogue
 
 ## C++
@@ -27,3 +21,10 @@ Understand the knowledge points of learning and summarize them into diagrams. Pe
 - [03.属性动画](https://github.com/cnzcy/mind/blob/master/知识回顾/03.属性动画/0.md)   
 - [04.Bitmap与Drawable](https://github.com/cnzcy/mind/blob/master/知识回顾/04.Bitmap与Drawable/0.md)   
 - [05.自定义View](https://github.com/cnzcy/mind/blob/master/知识回顾/05.自定义View/0.md)   
+- [06.测量与布局](https://github.com/cnzcy/mind/blob/master/知识回顾/06.测量与布局/0.md)   
+
+
+
+
+Understand the knowledge points of learning and summarize them into diagrams. Personally, I think it's a good way to learn from the past. Pictures are the most intuitive for people, so I will use a lot of pictures and very few words to record what I have learned.
+
